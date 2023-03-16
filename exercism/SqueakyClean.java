@@ -27,3 +27,4 @@ class SqueakyClean {
         }
     return str.toString();
     }
+}
