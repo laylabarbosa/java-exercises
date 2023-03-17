@@ -1,6 +1,7 @@
 public class ElonsToyCar {
     private int drivenMeters= 0;
     private int batteryPercentage = 100;
+    
     public static ElonsToyCar buy() {
             return new ElonsToyCar();
     }
